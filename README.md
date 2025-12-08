@@ -1,3 +1,4 @@
+<img width="931" height="548" alt="Screenshot 2025-12-07 at 7 31 24 PM" src="https://github.com/user-attachments/assets/a1e02c7b-1830-4b84-bfdf-def5bfbbfec6" />
 
 # SpotifyWebProject
 ### By Louis Spann, Jack Wagenheim, & Mohammad Alzoubi
